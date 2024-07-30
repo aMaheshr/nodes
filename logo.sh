@@ -21,3 +21,6 @@ echo -e "\e[1;32m
 \e[0m"
 # Print the follow-up message in the terminal
 echo -e "\n\n\e[1;32mFollow on X: \e[4;35mhttps://x.com/CryptoCrocks\e[0m"
+echo -e ""
+echo -e ""
+echo -e ""
