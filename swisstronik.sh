@@ -1,3 +1,11 @@
+#!/bin/sh
+
+# Fetch and execute the logo.sh script from your GitHub repository
+curl -s https://raw.githubusercontent.com/aMaheshr/nodes/main/logo.sh | bash
+
+# Pause for 4 seconds
+sleep 4
+
 sudo apt-get update && sudo apt get upgrade -y
 clear
 
